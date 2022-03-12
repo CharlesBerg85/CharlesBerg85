@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesBerg85
 - 👀 I’m interested in Video Game Development.
-- 🌱 I’m currently learning C# with .NET Frameworks.
+- 🌱 I’m currently learning Unity with C# and .NET Frameworks.
 - 💞️ I’m looking to collaborate on a Social Media Site.
 - 📫 You can reach me at mr.charlesmberg@gmail.com
 
